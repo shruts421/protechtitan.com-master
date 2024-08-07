@@ -66,5 +66,6 @@ features:
         details:
           - description: Export - Download complete or specific data sets with the document
               export feature
+  - title: New feature 2
 ---
 **Project management solution for distributors**
